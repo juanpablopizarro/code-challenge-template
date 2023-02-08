@@ -1,0 +1,10 @@
+1 Write a function to reverse a string.
+2 Write a program that generates all possible combinations of a given set of characters.
+3 Implement a linked list data structure in Go.
+4 Write a program to calculate the Fibonacci sequence.
+5 Implement a stack data structure in Go.
+6 Write a program that calculates the factorial of a given number.
+7 Write a function to check if a string is a palindrome.
+8 Write a program to find the longest common prefix in a list of strings.
+9 Implement a binary search algorithm in Go.
+10 Write a program that calculates the Levenshtein distance between two strings.
